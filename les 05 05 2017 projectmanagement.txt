@@ -1,0 +1,78 @@
+les 05/05/2017 projectmanagement
+
+ROI = return on investment ---------> ( eenvoudig )----> zeer interesant voor korte projecten 
+
+NPV = netto present value == NCW = netto constante waarde -----> rekening houden met muntontwaarding & inflatie of muntopwaarding ( een complexe berekening )
+  |
+  |
+  ----> interesant voor langere projecten 
+
+
+
+als je NPV laag is in vergelijking met je ROI zitten je opbrengsten ver naar achter  en je investeringen vooraan.
+
+
+softwareontwikkeling: SDLC ( dit zit maar in 1 fase van het gehele project maw in de realisatie fase) 
+
+Idee--->initialisatie--->realisatie---->afsluiten---->evaluatie	
+
+		Features
+		use cases sea level
+---------------------------------------------------
+|     1      |    2     |     3      |     4      |
+---------------------------------------------------
+        ^
+	|
+	| user 
+	| stories
+	|
+	|
+	v
+---------------------------------------------------
+
+oefening:
+-------------------------------------------------------------------|
+	        projectleider |	projectmedewerker   |	sponsor    |
+-------------------------------------------------------------------|
+opmaken budget	     R        |         C,I         |       A      |
+-------------------------------------------------------------------|
+werkverdeling        A,R      |         C,I         |              |
+-------------------------------------------------------------------|       
+rapportering         A,R      |         C,I         |              |
+-------------------------------------------------------------------| 
+ok voor volgende     C,I      |           I         |       A,R    |                 
+fase                          |                     |              |
+-------------------------------------------------------------------|
+
+
+taken sponsor: 
+
+business case en/of charter 
+valideren doelen 
+valideren eindresultaten 
+beoordelen rapportage 
+beoordelen fases en faseovergangen
+
+
+
+-------------------------------------------------
+
+		LOVE
+	      Beloning
+	     zekerheid
+	fysische gezondheid 
+--------------------------------------------------
+opmaken plan
+
+wat maken ----> PBS = product breakdown structure ( hierin staan de producten die je zal moeten maken ) (prince 2)
+
+welke volgorde ---> PFD = product flow diagram ( Prince 2 )
+
+hoe maken -----> WBS = work breakdown structure (PMBOK)
+
+vorm : boomstructuur of mindmap
+
+tip: grote voordeel van een mindmap ten opzichte van een boomstructuur is dat een mindmap ruimtelijk veel interesanter is .
+
+
+											

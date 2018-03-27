@@ -1,0 +1,21 @@
+les 15/06/2017
+
+
+basis normaalvorm = wat bij elkaar hoort , staat bij elkaar .
+
+Primairy key ---> functionele afhankelijkheden bepalen non-keyvelden.
+
+veld 1(funtioneel bepalende veld)  bepaalt veld 2 (functioneel afhankelijke veld) .
+
+Als ik de waarde ken van veld 1 dan weten we dat de waarde van veld 2 onomstotelijk vastligt.
+
+de waarde van veld 2 is functioneel afhankelijke van veld 1 als en enkel als ik de waarde ken ven veld 1 en daarmee zonder twijfel de waarde van veld 2 te bepalen valt.
+
+volledige functionele afhankelijkheid tussen v1 en v2 als en enkel als v2 functioneel afhankelijk is van ALLE  delen van V1.
+
+je functionele afhankelijkheid is ALTIJD  volledig als je primaire sleutel maar uit 1 deel bestaat .
+
+als v2 functioneel afhankelijk is van v1 dan is het volledig functioneel afhankelijk als en enkel als v1 niet meer op te delen is. ( zelfste als zin hierboven maar anders uitgedrukt ) 
+
+
+

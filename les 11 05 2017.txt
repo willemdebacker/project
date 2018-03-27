@@ -1,0 +1,15 @@
+les 11/05/2017
+
+
+Prince2 ---> PBS
+
+PMBOK ---> WBS = (PBS+WBS)----> 
+
+delen (PBS,WBS) --> in volgorde plaatsen (PFD = product flow diagram)(PFD legt afhankelijkheden vast, logische flow )(PFD is altijd PRINCE2)
+
+
+
+
+
+
+ 
